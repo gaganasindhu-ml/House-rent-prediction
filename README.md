@@ -87,42 +87,41 @@ The system is trained on **4,746 real listings** from 2022 using a **Gradient Bo
 ## 📸 Screenshots
 
 ### 🏠 Home — Hero & Model Metrics
-![Home](screenshots/Screenshot_2026-02-28_135241.png)
+![Home](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/7.png?raw=true))
 
 ---
 
 ### 🎯 Predict Rent — Form + Result Panel
-![Predict Rent](screenshots/Screenshot__296_.png)
+![Predict Rent](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/1.png?raw=true)
 
 ---
 
 ### 📊 Market Explorer — Median Rent by City
-![Market Explorer City](screenshots/Screenshot__297_.png)
-
+![Market Explorer City](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/2.png?raw=true)
 ---
 
 ### 📊 Market Explorer — BHK & Furnishing Charts
-![Market Explorer BHK](screenshots/Screenshot__298_.png)
+![Market Explorer BHK](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/8.png?raw=true))
 
 ---
 
 ### 📊 Market Explorer — Size vs Rent Scatter
-![Market Explorer Scatter](screenshots/Screenshot_2026-02-28_135411.png)
+![Market Explorer Scatter](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/5.png?raw=true)
 
 ---
 
 ### 🔍 Data Insights — Feature Importance & Distribution
-![Data Insights](screenshots/Screenshot__299_.png)
+![Data Insights](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/4.png?raw=true)
 
 ---
 
 ### 🔍 Data Insights — Raw Dataset Sample
-![Raw Dataset](screenshots/Screenshot__300_.png)
+![Raw Dataset](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/5.png?raw=true)
 
 ---
 
 ### 🔍 Data Insights — City Statistics Table
-![City Stats](screenshots/Screenshot__301_.png)
+![City Stats](https://github.com/gaganasindhu-ml/House-rent-prediction/blob/main/Screenshot/6.png?raw=true)
 
 ---
 
