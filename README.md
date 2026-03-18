@@ -48,9 +48,9 @@ The system is trained on **4,746 real listings** from 2022 using a **Gradient Bo
 
 ## 🌐 Live Demo
 
-🚀 **[Launch RentIQ on Streamlit Cloud →](https://house-rent-prediction-bjahcuvzj7zreirc7kuasw.streamlit.app/)**
+🚀 **[Launch RentIQ on Streamlit Cloud →](#)**
 
-
+> *(Replace `#` with your deployed app URL after deployment)*
 
 ---
 
@@ -86,15 +86,43 @@ The system is trained on **4,746 real listings** from 2022 using a **Gradient Bo
 
 ## 📸 Screenshots
 
-| Rent Predictor | Market Explorer |
-|---|---|
-| *Prediction form with result panel* | *City comparison and scatter charts* |
+### 🏠 Home — Hero & Model Metrics
+![Home](screenshots/Screenshot_2026-02-28_135241.png)
 
-| Data Insights | Sidebar |
-|---|---|
-| *Feature importance and distribution* | *Model metrics and city coverage* |
+---
 
-> *(Add screenshots to the `assets/` folder and update the image paths above)*
+### 🎯 Predict Rent — Form + Result Panel
+![Predict Rent](screenshots/Screenshot__296_.png)
+
+---
+
+### 📊 Market Explorer — Median Rent by City
+![Market Explorer City](screenshots/Screenshot__297_.png)
+
+---
+
+### 📊 Market Explorer — BHK & Furnishing Charts
+![Market Explorer BHK](screenshots/Screenshot__298_.png)
+
+---
+
+### 📊 Market Explorer — Size vs Rent Scatter
+![Market Explorer Scatter](screenshots/Screenshot_2026-02-28_135411.png)
+
+---
+
+### 🔍 Data Insights — Feature Importance & Distribution
+![Data Insights](screenshots/Screenshot__299_.png)
+
+---
+
+### 🔍 Data Insights — Raw Dataset Sample
+![Raw Dataset](screenshots/Screenshot__300_.png)
+
+---
+
+### 🔍 Data Insights — City Statistics Table
+![City Stats](screenshots/Screenshot__301_.png)
 
 ---
 
